@@ -8,22 +8,6 @@
   Peking University Shenzhen Graduate School  
 - **Communication & Information Security Laboratory**
 
-## Technical Expertise
-
-**Machine Learning and Vision**
-- Medical image segmentation, Federated learning, Privacy and robustness evaluation 
-
-**Engineering**
-- Python, PyTorch
-- C#, .NET (industrial vision and control systems)
-- LabVIEW and AI integration
-- PyQt-based GUI inference systems
-
-**Previous Programming Experience**
-- PHP (web backend development)
-- R (statistical analysis and research prototyping)
-- JavaScript (frontend and scripting)
-
 ## Open Source Philosophy
 
 I focus on building research systems that are technically sound and practically deployable,  

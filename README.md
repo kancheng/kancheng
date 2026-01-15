@@ -1,4 +1,4 @@
-# Kan-Cheng (kancheng)
+# Haocheng Kan (kancheng)
 
 🎓 Researcher | AI Engineer | Open Source Contributor
 

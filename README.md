@@ -1,4 +1,4 @@
-# Haocheng Kan (kancheng)
+# Haocheng Kan (kancheng)🐰🐨🦦
 
 🎓 Researcher | AI Engineer | Open Source Contributor
 
